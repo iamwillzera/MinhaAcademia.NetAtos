@@ -1,6 +1,4 @@
 ﻿using System;
-
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.ConstrainedExecution;
@@ -109,47 +107,56 @@ namespace ListaRepeticao
             //Se o usuário digitar 0 ou programa em VS deve parar.
             //Caso contrário, o programa em VS deve informar se o número é par ou ímpar e se ele é um número primo.
 
-            double numero = 0;
-       
-            do
-            {
-                Console.WriteLine("Informe um número (digite 0 p/ parar): ");
-                numero = double.Parse(Console.ReadLine());
-                
-                if(numero == 0)
-                {
-                    break;
-                }
+            //double numero = 0;
 
-                int divisores = 0;
-                for (int i = 1; i <= numero; i++)
-                {
+            //do
+            //{
+            //    Console.WriteLine("Informe um número (digite 0 p/ parar): ");
+            //    numero = double.Parse(Console.ReadLine());
 
-                    if (numero % i == 0)
-                    {
-                        divisores++;
-                    }
-                }
+            //    if (numero == 0)
+            //    {
+            //        break;
+            //    }
 
-                if (divisores == 2)
-                {
-                    Console.WriteLine(numero + " é primo!");
-                }
-                else
-                {
-                    Console.WriteLine(numero + " não é primo!");
-                }
+            //    int divisores = 0;
+            //    for (int i = 1; i <= numero; i++)
+            //    {
 
-                if (numero % 2 == 0)
-                {
-                    Console.WriteLine(numero + " é par!\n");
-                }
-                else
-                {
-                    Console.WriteLine(numero + " é ímpar!\n");
-                }
+            //        if (numero % i == 0)
+            //        {
+            //            divisores++;
+            //        }
+            //    }
 
-            } while (numero != 0);
+            //    if (divisores == 2)
+            //    {
+            //        Console.WriteLine(numero + " é primo!");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine(numero + " não é primo!");
+            //    }
+
+            //    if (numero % 2 == 0)
+            //    {
+            //        Console.WriteLine(numero + " é par!\n");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine(numero + " é ímpar!\n");
+            //    }
+
+            //} while (numero != 0);
+
+            //-------------------------------------------------------------------------------------//
+
+            //4.Em uma cidadezinha do interior há dois candidatos para prefeito(JOAO e ZECA).
+            //Você foi contratado para fazer um programa em VS que conte os votos dos candidatos.
+            //Cada vez que o usuário digitar JOAO, você deve somar um ao seu número de votos.O mesmo para ZECA.
+            //Você também pode aceitar votos em branco(palavra BRANCO).O programa em VS termina quando o usuário
+            //escrever FIM.Ao final devem ser representados como de votos para um dos números eo número
+            //de votos em branco..
 
 
         }
