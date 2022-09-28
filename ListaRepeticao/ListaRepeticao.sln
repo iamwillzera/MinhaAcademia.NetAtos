@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaRepeticao", "ListaRepeticao.csproj", "{4782397B-C526-4093-ACB2-19E38B20B3E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4782397B-C526-4093-ACB2-19E38B20B3E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4782397B-C526-4093-ACB2-19E38B20B3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4782397B-C526-4093-ACB2-19E38B20B3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4782397B-C526-4093-ACB2-19E38B20B3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DADC086E-D536-4765-A541-F24654BDB9D6}
+	EndGlobalSection
+EndGlobal
