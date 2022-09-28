@@ -158,6 +158,86 @@ namespace ListaRepeticao
             //escrever FIM.Ao final devem ser representados como de votos para um dos números eo número
             //de votos em branco..
 
+            //string voto = "";
+            //double joao = 0, zeca = 0, branco = 0;
+
+
+            //do
+            //{
+            //    Console.WriteLine("Digite o seu voto (JOAO / ZECA ou BRANCO). Para terminar digite FIM");
+            //    voto = Console.ReadLine().ToUpper();
+
+            //    if (voto == "JOAO")
+            //    {
+            //        joao++;
+            //    } else if (voto == "ZECA")
+            //    {
+            //        zeca++;
+            //    } else if (voto == "BRANCO")
+            //    {
+            //        branco++;
+            //    }
+            //} while (voto != "FIM");
+
+            //Console.WriteLine("João: " + joao + " votos.");
+            //Console.WriteLine("Zeca: " + zeca + " votos.");
+            //Console.WriteLine("Brancos: " + branco + " votos.");
+
+            //-----------------------------------------------------------------------------//
+
+            //5.Modifique o programa em VS anterior para aceitar votos nulos
+            //(qualquer nome diferente de FIM, JOAO, ZECA e BRANCO).
+            //Ao final, informe o nome do candidato vencedor, o número de votos nulos
+            //e o número de pessoas que votaram.
+
+            //string voto = "";
+            //double joao = 0, zeca = 0, branco = 0, nulo = 0, total = 0;
+
+
+            //do
+            //{
+            //    Console.WriteLine("Digite o seu voto (JOAO / ZECA ou BRANCO). Para terminar digite FIM");
+            //    voto = Console.ReadLine().ToUpper();
+
+            //    switch (voto)
+            //    {
+            //        case "JOAO":
+            //            joao++;
+            //            break;
+
+            //        case "ZECA":
+            //            zeca++;
+            //            break;
+
+            //        case "BRANCO":
+            //            branco++;
+            //            break;
+
+            //        case "FIM":
+            //            break;
+
+            //        default:
+            //            nulo++;
+            //            break;
+            //    }
+
+            //    total++;
+
+            //    } while (voto != "FIM");
+
+            //if (joao > zeca)
+            //{
+            //    Console.WriteLine("O vencedor foi o candidato João com " + joao + " votos!");
+            //} else if (zeca > joao)
+            //{
+            //    Console.WriteLine("O vencedor foi o candidato Zeca com " + zeca + " votos!");
+            //} else if (joao == zeca)
+            //{
+            //    Console.WriteLine("Houve um empate. Ambos os candidatos obtiveram " + joao + " votos!");
+            //}
+
+            //Console.WriteLine("Quantidade de eleitores: " + total);
+            //Console.WriteLine("Votos nulos: " + nulo);
 
         }
     }
