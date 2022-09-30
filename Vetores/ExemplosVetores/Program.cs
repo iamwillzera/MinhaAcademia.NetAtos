@@ -100,7 +100,7 @@ namespace ExemplosVetores
             //Console.WriteLine("O maior elemento é " + maior + " e está na posição " + posicaoMaior);
             //Console.WriteLine("O menor elemento é " + menor + " e está na posição " + posicaoMenor);
 
-            
+           
         }
     }
 }
