@@ -264,13 +264,66 @@ namespace ListaVetores
             //}
 
             //-----------------------------------------------------------------------------------------//
-            //10.Escreva um algoritmo que leia um vetor inteiro de 20 posições.Crie um segundo vetor, substituindo os valores nulos por 2.Mostre os vetores lidos e o vetor resultado.
+            //10.Escreva um algoritmo que leia um vetor inteiro de 20 posições.
+            //Crie um segundo vetor, substituindo os valores nulos por 2.
+            //Mostre os vetores lidos e o vetor resultado.
 
-            int[] vetor = new int[20];
+            //-----------------------------------------------------------------------------------------//
+            //11.	Escreva um programa que leia valores em um vetor de 5 posições.
+            //Escrever os elementos do vetor e após escrever os elementos na ordem inversa.
 
-            for (int i = 0; i < vetor.Length; i++)
+            //int[] vetor = new int[5];
+
+            //for (int i = 0; i < vetor.Length; i++)
+            //{
+            //    Console.WriteLine("Informe o valor da posição "+(i+1));
+            //    vetor[i] = int.Parse(Console.ReadLine());
+
+            //}
+
+            //Console.Write("\n|");
+            //for (int i = 0; i < vetor.Length; i++)
+            //{
+            //    Console.Write(" "+vetor[i]+" |");
+            //}
+
+            //Console.Write("\n|");
+            //for (int i = 4; i >= 0; i--)
+            //{
+            //    Console.Write(" " + vetor[i] + " |");
+            //}
+
+            //------------------------------------------------------------------------------------------//
+            //12.Faça um algoritmo que leia um vetor V de 10 posições e,
+            //após, verifica se um número N, fornecido pelo usuário, existe no vetor. 
+            //Se existir, indicar a(s) posição(ões), senão escrever a mensagem "O número fornecido não existe no vetor!".
+            int[] vetor = { 7, 9, 10, 12, 14, 17, 31, 68, 92, 97 };
+            int[] posicao = new int[vetor.Length];
+            int igual, cont = 0, i = 0;
+
+            Console.WriteLine("Informe um valor: ");
+            int numero = int.Parse(Console.ReadLine());
+
+            for (i = 0; i < vetor.Length; i++)
             {
-                Console.WriteLine("Informe o valor da posição " + (i + 1) + ": ");
+                if (numero == vetor[i])
+                {
+                    igual = numero;
+                    cont++;
+                    posicao[i] = i;
+
+                }
+
+
+            }
+
+            if (cont > 0)
+            {
+                Console.WriteLine("O número " + numero + " encontra-se no vetor.");
+            }
+            else
+            {
+                Console.WriteLine("O número " + numero + " não faz parte do vetor.");
             }
 
 
