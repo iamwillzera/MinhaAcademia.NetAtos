@@ -1,8 +1,0 @@
-C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Vetores\ListaVetores\bin\Debug\ListaVetores.exe.config
-C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Vetores\ListaVetores\bin\Debug\ListaVetores.exe
-C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Vetores\ListaVetores\bin\Debug\ListaVetores.pdb
-C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Vetores\ListaVetores\obj\Debug\ListaVetores.csproj.AssemblyReference.cache
-C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Vetores\ListaVetores\obj\Debug\ListaVetores.csproj.SuggestedBindingRedirects.cache
-C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Vetores\ListaVetores\obj\Debug\ListaVetores.csproj.CoreCompileInputs.cache
-C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Vetores\ListaVetores\obj\Debug\ListaVetores.exe
-C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Vetores\ListaVetores\obj\Debug\ListaVetores.pdb

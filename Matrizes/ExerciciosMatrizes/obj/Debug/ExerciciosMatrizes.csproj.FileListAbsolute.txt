@@ -1,0 +1,8 @@
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Matrizes\ExerciciosMatrizes\bin\Debug\ExerciciosMatrizes.exe.config
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Matrizes\ExerciciosMatrizes\bin\Debug\ExerciciosMatrizes.exe
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Matrizes\ExerciciosMatrizes\bin\Debug\ExerciciosMatrizes.pdb
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Matrizes\ExerciciosMatrizes\obj\Debug\ExerciciosMatrizes.csproj.AssemblyReference.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Matrizes\ExerciciosMatrizes\obj\Debug\ExerciciosMatrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Matrizes\ExerciciosMatrizes\obj\Debug\ExerciciosMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Matrizes\ExerciciosMatrizes\obj\Debug\ExerciciosMatrizes.exe
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Matrizes\ExerciciosMatrizes\obj\Debug\ExerciciosMatrizes.pdb

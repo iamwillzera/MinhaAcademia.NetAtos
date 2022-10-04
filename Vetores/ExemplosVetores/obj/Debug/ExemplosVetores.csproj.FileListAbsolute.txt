@@ -1,8 +1,0 @@
-C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Vetores\ExemplosVetores\obj\Debug\ExemplosVetores.csproj.AssemblyReference.cache
-C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Vetores\ExemplosVetores\obj\Debug\ExemplosVetores.csproj.SuggestedBindingRedirects.cache
-C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Vetores\ExemplosVetores\obj\Debug\ExemplosVetores.csproj.CoreCompileInputs.cache
-C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Vetores\ExemplosVetores\bin\Debug\ExemplosVetores.exe.config
-C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Vetores\ExemplosVetores\bin\Debug\ExemplosVetores.exe
-C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Vetores\ExemplosVetores\bin\Debug\ExemplosVetores.pdb
-C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Vetores\ExemplosVetores\obj\Debug\ExemplosVetores.exe
-C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\Vetores\ExemplosVetores\obj\Debug\ExemplosVetores.pdb
