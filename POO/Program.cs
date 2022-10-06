@@ -94,14 +94,45 @@ namespace POO
             //Opção:
 
             int opcao = 0;
+            string email = "";
+            List<string> listaEmail = new List<string>();
+            List<string> listaDominios = new List<string>();
 
             do
             {
-                Console.WriteLine(" 1 - Cadastrar e-mail" +
+                Console.WriteLine("\n====================" +
+                    "\n1 - Cadastrar e-mail" +
                     "\n2 - Listar" +
-                    "\n3 - Sair");
+                    "\n3 - Sair" +
+                    "\n====================");
                 opcao = int.Parse(Console.ReadLine());
+
+                if (opcao == 1)
+                {
+                    Console.WriteLine("Informe o e-mail: ");
+                    email = (Console.ReadLine());
+
+                    if (listaEmail.Contains(email))
+                    {
+                        Console.WriteLine("E-mail já cadastrado!");
+                    }
+                    else
+                    {
+                        listaEmail.Add(email);
+                    }
+
+                }
+                else if (opcao == 2)
+                {
+                    listaEmail.Sort();
+                    foreach (var emailListado in listaEmail)
+                    {
+                        Console.WriteLine(emailListado);
+                    }
+                }
+
             } while (opcao != 3);
+
 
         }
     }
