@@ -95,6 +95,7 @@ namespace POO
 
             int opcao = 0;
             string email = "";
+            string[] divideEmail = email.Split('@');
             List<string> listaEmail = new List<string>();
             List<string> listaDominios = new List<string>();
 
@@ -103,7 +104,7 @@ namespace POO
                 Console.WriteLine("\n====================" +
                     "\n1 - Cadastrar e-mail" +
                     "\n2 - Listar" +
-                    "\n3 - Sair" +
+                    "   \n3 - Sair" +
                     "\n====================");
                 opcao = int.Parse(Console.ReadLine());
 
@@ -111,6 +112,7 @@ namespace POO
                 {
                     Console.WriteLine("Informe o e-mail: ");
                     email = (Console.ReadLine());
+
 
                     if (listaEmail.Contains(email))
                     {

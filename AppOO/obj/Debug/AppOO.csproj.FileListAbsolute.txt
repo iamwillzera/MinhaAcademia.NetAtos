@@ -1,0 +1,8 @@
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\AppOO\bin\Debug\AppOO.exe.config
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\AppOO\bin\Debug\AppOO.exe
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\AppOO\bin\Debug\AppOO.pdb
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\AppOO\obj\Debug\AppOO.csproj.AssemblyReference.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\AppOO\obj\Debug\AppOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\AppOO\obj\Debug\AppOO.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\AppOO\obj\Debug\AppOO.exe
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos-1\AppOO\obj\Debug\AppOO.pdb
