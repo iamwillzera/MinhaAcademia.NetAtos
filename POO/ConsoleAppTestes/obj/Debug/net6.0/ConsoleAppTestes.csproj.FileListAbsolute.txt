@@ -1,0 +1,15 @@
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos\POO\ConsoleAppTestes\bin\Debug\net6.0\ConsoleAppTestes.exe
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos\POO\ConsoleAppTestes\bin\Debug\net6.0\ConsoleAppTestes.deps.json
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos\POO\ConsoleAppTestes\bin\Debug\net6.0\ConsoleAppTestes.runtimeconfig.json
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos\POO\ConsoleAppTestes\bin\Debug\net6.0\ConsoleAppTestes.dll
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos\POO\ConsoleAppTestes\bin\Debug\net6.0\ConsoleAppTestes.pdb
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos\POO\ConsoleAppTestes\obj\Debug\net6.0\ConsoleAppTestes.csproj.AssemblyReference.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos\POO\ConsoleAppTestes\obj\Debug\net6.0\ConsoleAppTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos\POO\ConsoleAppTestes\obj\Debug\net6.0\ConsoleAppTestes.AssemblyInfoInputs.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos\POO\ConsoleAppTestes\obj\Debug\net6.0\ConsoleAppTestes.AssemblyInfo.cs
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos\POO\ConsoleAppTestes\obj\Debug\net6.0\ConsoleAppTestes.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos\POO\ConsoleAppTestes\obj\Debug\net6.0\ConsoleAppTestes.dll
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos\POO\ConsoleAppTestes\obj\Debug\net6.0\refint\ConsoleAppTestes.dll
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos\POO\ConsoleAppTestes\obj\Debug\net6.0\ConsoleAppTestes.pdb
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos\POO\ConsoleAppTestes\obj\Debug\net6.0\ConsoleAppTestes.genruntimeconfig.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\MinhaAcademia.NetAtos\POO\ConsoleAppTestes\obj\Debug\net6.0\ref\ConsoleAppTestes.dll

@@ -8,5 +8,12 @@ namespace ConsoleApp2
 {
     internal class Aluguel
     {
+        public DateTime inicio;
+        public DateTime termino;
+        public double valorDiaria;
+        public bool seguro;
+        public Carro carro;
+        public Cliente cliente;
+       
     }
 }

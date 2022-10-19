@@ -9,12 +9,7 @@ namespace ConsoleApp2
     internal class Cliente
     {
         public string nome;
-        public int idCliente;
+        public int idade;
 
-        public Cliente(string nome, int idCliente)
-        {
-            this.nome = nome;
-            this.idCliente = idCliente;
-        }   
     }
 }

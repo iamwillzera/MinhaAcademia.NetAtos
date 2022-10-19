@@ -8,5 +8,15 @@ namespace ConsoleApp2
 {
     internal class Carro
     {
+        public string fabricante;
+        public string placa;
+        private string cor;
+
+        public void setCor(string cor)
+        {
+            this.cor = cor;
+        }
+
+
     }
 }

@@ -1,0 +1,8 @@
+Codigo: BRA002. Seleção: BRASIL. Jogador: RAFINHA
+----------------------------------
+Codigo: BRA001. Seleção: BRASIL. Jogador: ALISSON
+----------------------------------
+Codigo: BBB. Seleção: BRASIL. Jogador: NEYMAR
+----------------------------------
+Codigo: BRASIL. Seleção: BRASIL. Jogador: PAULO BAIER
+----------------------------------
