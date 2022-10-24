@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thayl\\OneDrive\\Área de Trabalho\\MinhaAcademia.NetAtos\\Lista2\\Lista2.csproj",
+      "projectUniqueName": "C:\\Users\\thayl\\OneDrive\\Área de Trabalho\\Developer\\MinhaAcademia.NetAtos\\Lista2\\Lista2.csproj",
       "projectName": "Lista2",
-      "projectPath": "C:\\Users\\thayl\\OneDrive\\Área de Trabalho\\MinhaAcademia.NetAtos\\Lista2\\Lista2.csproj",
+      "projectPath": "C:\\Users\\thayl\\OneDrive\\Área de Trabalho\\Developer\\MinhaAcademia.NetAtos\\Lista2\\Lista2.csproj",
       "packagesPath": "C:\\Users\\thayl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thayl\\OneDrive\\Área de Trabalho\\MinhaAcademia.NetAtos\\Lista2\\obj\\",
+      "outputPath": "C:\\Users\\thayl\\OneDrive\\Área de Trabalho\\Developer\\MinhaAcademia.NetAtos\\Lista2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thayl\\AppData\\Roaming\\NuGet\\NuGet.Config",
