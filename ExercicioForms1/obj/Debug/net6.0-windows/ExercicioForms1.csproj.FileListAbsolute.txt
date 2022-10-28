@@ -1,0 +1,17 @@
+C:\Users\thayl\OneDrive\Área de Trabalho\Developer\MinhaAcademia.NetAtos\ExercicioForms1\obj\Debug\net6.0-windows\ExercicioForms1.csproj.AssemblyReference.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\Developer\MinhaAcademia.NetAtos\ExercicioForms1\obj\Debug\net6.0-windows\ExercicioForms1.Form1.resources
+C:\Users\thayl\OneDrive\Área de Trabalho\Developer\MinhaAcademia.NetAtos\ExercicioForms1\obj\Debug\net6.0-windows\ExercicioForms1.csproj.GenerateResource.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\Developer\MinhaAcademia.NetAtos\ExercicioForms1\obj\Debug\net6.0-windows\ExercicioForms1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\OneDrive\Área de Trabalho\Developer\MinhaAcademia.NetAtos\ExercicioForms1\obj\Debug\net6.0-windows\ExercicioForms1.AssemblyInfoInputs.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\Developer\MinhaAcademia.NetAtos\ExercicioForms1\obj\Debug\net6.0-windows\ExercicioForms1.AssemblyInfo.cs
+C:\Users\thayl\OneDrive\Área de Trabalho\Developer\MinhaAcademia.NetAtos\ExercicioForms1\obj\Debug\net6.0-windows\ExercicioForms1.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\Developer\MinhaAcademia.NetAtos\ExercicioForms1\bin\Debug\net6.0-windows\ExercicioForms1.exe
+C:\Users\thayl\OneDrive\Área de Trabalho\Developer\MinhaAcademia.NetAtos\ExercicioForms1\bin\Debug\net6.0-windows\ExercicioForms1.deps.json
+C:\Users\thayl\OneDrive\Área de Trabalho\Developer\MinhaAcademia.NetAtos\ExercicioForms1\bin\Debug\net6.0-windows\ExercicioForms1.runtimeconfig.json
+C:\Users\thayl\OneDrive\Área de Trabalho\Developer\MinhaAcademia.NetAtos\ExercicioForms1\bin\Debug\net6.0-windows\ExercicioForms1.dll
+C:\Users\thayl\OneDrive\Área de Trabalho\Developer\MinhaAcademia.NetAtos\ExercicioForms1\bin\Debug\net6.0-windows\ExercicioForms1.pdb
+C:\Users\thayl\OneDrive\Área de Trabalho\Developer\MinhaAcademia.NetAtos\ExercicioForms1\obj\Debug\net6.0-windows\ExercicioForms1.dll
+C:\Users\thayl\OneDrive\Área de Trabalho\Developer\MinhaAcademia.NetAtos\ExercicioForms1\obj\Debug\net6.0-windows\refint\ExercicioForms1.dll
+C:\Users\thayl\OneDrive\Área de Trabalho\Developer\MinhaAcademia.NetAtos\ExercicioForms1\obj\Debug\net6.0-windows\ExercicioForms1.pdb
+C:\Users\thayl\OneDrive\Área de Trabalho\Developer\MinhaAcademia.NetAtos\ExercicioForms1\obj\Debug\net6.0-windows\ExercicioForms1.genruntimeconfig.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\Developer\MinhaAcademia.NetAtos\ExercicioForms1\obj\Debug\net6.0-windows\ref\ExercicioForms1.dll
